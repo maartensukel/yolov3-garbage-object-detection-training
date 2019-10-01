@@ -107,5 +107,5 @@ venv.bak/
 /weights
 /data/samples/
 /data/images/
-/data/labels
+/data/labels/
 darknet53.conv.74
