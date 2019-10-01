@@ -109,3 +109,5 @@ venv.bak/
 /data/images/
 /data/labels/
 darknet53.conv.74
+/backup
+
