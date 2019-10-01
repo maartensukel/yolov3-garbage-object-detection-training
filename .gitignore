@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data and weights
+/weights
+/data/samples/
+/data/images/
+/data/labels
+darknet53.conv.74
