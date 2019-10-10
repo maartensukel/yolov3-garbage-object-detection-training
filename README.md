@@ -1,6 +1,4 @@
-# yolov3-garbage-object-detection
-
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# yolov3-garbage-object-detection-trainning
 
 A modified version of [Darknet](http://pjreddie.com/darknet) with data and configuration to train a Yolov3 garbage object detection mode.
 
@@ -26,4 +24,8 @@ To run training:
 
 To monitor loss during trainning, use jupyter notebook eval.pynb
 
-![Trainning loss](/data/loss.png)
+![Training loss](/data/loss.png)
+
+# Predictions and test
+
+For making predictions and test use [This](https://github.com/maartensukel/yolov3-pytorch-garbage-detection) repository.
