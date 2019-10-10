@@ -1,4 +1,4 @@
-# yolov3-garbage-object-detection-trainning
+# YOLOv3 garbage object detection training
 
 A modified version of [Darknet](http://pjreddie.com/darknet) with data and configuration to train a Yolov3 garbage object detection mode.
 
