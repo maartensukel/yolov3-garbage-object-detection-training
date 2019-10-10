@@ -28,4 +28,4 @@ To monitor loss during trainning, use jupyter notebook eval.pynb
 
 # Predictions and test
 
-For making predictions and test use [This](https://github.com/maartensukel/yolov3-pytorch-garbage-detection) repository.
+For making predictions and test use [this](https://github.com/maartensukel/yolov3-pytorch-garbage-detection) repository.
