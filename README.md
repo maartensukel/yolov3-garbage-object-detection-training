@@ -12,7 +12,9 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 # Data
 
 To download pretrained weights, images, labels and configurations go here:
-https://drive.google.com/open?id=1DjeNxdaF7AW3Nu54_3oRw_1SeYJtOvNL
+https://drive.google.com/drive/folders/1DjeNxdaF7AW3Nu54_3oRw_1SeYJtOvNL
+
+One of the datasets contains images and annotations of cigarettes. The other data set has garbage bags, cardboard and containers.
 
 # Train
 
